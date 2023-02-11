@@ -1,0 +1,85 @@
+Consider the scenario description of the Second-hand E-Commerce System (SES) below.
+
+Your  are asked to submit the following diagrams and associated Data Dictionary
+
+ 1. Draw a Jackson context Diagram (15 pts.)
+  2. Draw level-0 DFD (20 pts.)
+   3. Draw level-1 DFD showing major groups of functionalities (40 pts.)
+  4. Draw a detailed DFD for one of those major group of functionalities (25 pts.)
+
+*Scenario: Second-hand E-Commerce System (SES)*
+
+SES’s are mobile applications that allow users to buy and sell second-hand
+items locally. Basically, sellers post an item through the application and
+wait for a buyer for that item to be sold.
+
+We are asked to develop a mobile SES application that has two types of roles:
+the Seller and the Buyer. A user of the application can have both roles. In
+order to use the application, users are  required to sign up the
+application with their personal information. This can be achieved through
+Facebook, Google, or by creating an account specific to the application and
+then logging in. If the user chooses to sign up the system through Facebook
+or Google, the application pulls the personal information of the
+corresponding user from his/her Facebook or Google account. (You do not
+have to consider the permission issues.) This information includes the user’s
+name, surname, phone number, address, profile photo and email address. On
+the other hand, if the user chooses to create an account specific to the
+application (let’s call it a SES account), the user should enter the information above
+and a password. Similarly, users log into the system
+through the way they choose to sign up (through Facebook, Google, or SES
+account). Moreover, the application allows the users to edit their profile
+information after signing up.
+
+After logging in, a Seller can create an item to sell by taking its photos. An
+item should have at least 1 photo. The user also enters other information
+related to the item including its price, description, address. Whenever an
+item is created by a user in order to be sold, it is automatically tagged
+by application through Amazon API. In other words, the application sends
+the photo of the item to Amazon and Amazon returns a tag related to the
+corresponding item to the application. This information is also kept in the
+system as an item information. For payment, the Seller can activate the
+payment system (currently we are thinking Paypal for this), if they
+prefer online payment. If the item is sold via Paypal, the item is
+automatically marked as “Sold”. In addition, the Seller can accept
+payment directly from the Buyer. In this case, the Seller is required to confirm the money transaction in SES, which would automatically the item as “Sold”. In addition to creating an item to sell, the Seller can delete and edit the items he/she created
+before. The Seller can also see a list of the items that are already sold by themselves and a list of items that are not sold yet.
+
+After logging in, a Buyer is able to search for an item. There are multiple
+options to do the search:.1) The Buyer can enter a keyword to search for
+an item. 2) The Buyer can select a category to search for an item. These
+categories are identified such as electronics, automobile, sport, clothing,
+etc. which are pre-defined by us and the users can only choose one from the existing categories. 3) The Buyer is able to search for an item whose price is between a specific range entered by the buyer. 4) The Buyer can search for items based on
+the publish date of the items. For example, the buyer can search for the
+items which were put on sale within the last 24 hours. The buyer inputs the
+time information for this type of search.
+
+ 
+
+After the search operation, the application lists the items. Then, the Buyer can view the detailed information of an item by selecting it from the list. This information includes the item’s photo(s), price, description, automatic tag, address, publish date, and how many times the item is viewed by the users. If the Buyer would like to get an item and the Seller activates the payment system for that item, the Buyer can pay the price via the system (using Paypal). If the payment system is not activated by the Seller, the Buyer should contact with the Seller and then pay manually.
+
+
+The Buyer can view the profile information of the Sellers (profile photo, name, surname,
+email address, address, and all the past items that are already sold and
+currently put on sale by that Seller.
+
+Moreover, whenever a Buyer looks at an item’s details, the application recommends a list of items  that are related to the current item.
+
+Tips:
+
+ 
+
+Entities should have a cohesive role in all the functions they participate. Do not think about the user, think about the active role of the user during transformations (functions).
+
+For the third question, you are not required to draw every function separately. Instead, you can group similar functions together. For example, one ellipse could be used for seller operations and the relevant arrows can be connected to that ellipse. However, all of the arrows that correspond to the functions that belong to that group must still be visibly connected to that ellipse. Also, each and every function should be represented by one group of functions. For the fourth question, you are required to choose one of these groups and draw everything explicitly and separately, without grouping them. In other words, the number of input/output is preserved while the functions get more detailed with the fourth question.
+
+If you think your solution may not be the expected one but you believe your approach is acceptable, please explain and justify your solution thoroughly. You can also explain your thought process and possible alternatives in your mind.
+
+drawing
+You can draw the diagram by hand and then scan them
+
+you can use any tool to draw your diagrams but the syntax must be correct.
+you can optionally use https://www.draw.io/ to draw the diagrams and export their raster images in order to embed them in your submission document. However, do not forget to save and download  the XML versions of them if you want to be able to edit them later.
+
+You can use colors to pair arrows with the corresponding data labels on them if you think your diagram has become too crowded, but the data labels should still be present right next to the corresponding arrows.
+
+Do not forget to show your data dictionary!!!!!!!!!!!!!!!!!!!

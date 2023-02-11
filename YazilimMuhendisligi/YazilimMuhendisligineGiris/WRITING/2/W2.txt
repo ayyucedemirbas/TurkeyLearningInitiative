@@ -1,0 +1,24 @@
+Consider the description of  Second-hand E-Commerce System (SES) in the previous homework.
+
+a)  Draw a use case diagram for the SES. Do not give use case scenarios (20 points)
+
+b) Draw a class diagram for analysis. Your class diagram should be for analysis, so show the relationship between real life entities. Do not include methods. Show the relations between the classes and the attributes of the classes  if any (40 points).
+
+c) Draw a sequence diagram for the given scenario: “A buyer wants to search for the items whose seller’s average rating is equal to or greater than a specific value.” (40 points).
+
+The scenario details are given below. First part gives the classes whose objects take part in the scenario. The second part gives the details of the scenario.
+
+
+The information related to the pre-defined classes are as follows:
+ -  All users have their profile information which contains the e-mail address,
+  password, name, surname, photo, address, birthdate, and phone number.Assume that there are Buyer and Seller classes which are subclasses of the User class. In addition, the Seller class keeps average rating info which is determined by its buyers.
+
+-Item class keeps the information including the item ID, price, description,
+  address, photo, and a flag for activation of booking system for that item (the flag   shows whether booking system is activated or not).
+  -ItemContainer class keeps all items defined in the system. It provides several methods for searching for a specific item such as  searchItemsByRate().
+
+Details of the scenario.
+
+Hint: The sequence diagram is given in natural language as follows:
+
+The buyer triggers the searchItemsByRate() method in an instance of ItemContainer class.Search keyword and rate are the input parameters for this method. searchItemsByRate() method returns a list of Items whose seller’s rate is equal to or greater than the rate given as the input parameter. This method fetches the price, photo, description of the items and seller rating of those items. In order to do that, searchItemByRate() method  invokes getPrice(), getDescription(), getPhoto() methods in Item objects and getRating() method of the Seller objects. The Seller object of an Item object is obtained by getSeller() method of the Item class objects. If the condition is satisfied for any Item object (by comparing the search keyword - description and the input rating - seller rating pairs), the list of items returns to the buyer by searchItemsByRate() method.

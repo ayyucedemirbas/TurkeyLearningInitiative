@@ -1,0 +1,8 @@
+Assignment 3
+Assignment 3 is available. Question 3.2 is the bonus question.
+
+Note: Question 1 needs a "test_utils.py" file to import some functions to test your implementations and load dataset as numpy array. If you are working in Colab;
+
+- You are going to need to upload that file to your Colab instance same way as you uploaded the cats-dogs dataset in the second assignment or Colab would not find the file to import necessary functions.
+
+- Alternatively, you can just copy and paste the file content to the notebook and all the functions will be available for use without importing.
