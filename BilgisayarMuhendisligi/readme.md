@@ -21,6 +21,8 @@ Bu repo, Türkiye'deki Bilgisayar Mühendisliği çalışmaları ile ilgili kayn
 - [Python](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/Python)
 
 - [VERİ YÖNETİMİ](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/VER%C4%B0%20Y%C3%96NET%C4%B0M%C4%B0)
+
+- [Logic Design](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/Logic%20Design)
   
 Bilgisayar Mühendisliği çalışmalarınızda ileriye gitmek için bu kaynakları kullanabilirsiniz!
 
