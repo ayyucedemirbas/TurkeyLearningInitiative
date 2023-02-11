@@ -1,0 +1,31 @@
+Q1) (Pen&Paper) Simple forward and backpropagation.
+
+Use your 7-digit student number as random seed. You need to show the actual results for forward and backward propagation. If numbers are too small or too big, calculate an approximate value by using 10^ notation. You can take the loss value as 1 to make backpropagation easier. Show every intermediate step. No need to update the input values. You can print the graphs and write the results on the nodes (x,y,z,q,f).
+
+Deliverables: Scanned handwriting or Word/Latex files for Q1.
+
+
+
+
+
+Q2) (Code) Implementing convolutional layer with Numpy. (forward propagation only)
+
+Deliverables: A working notebook.
+
+
+
+
+
+Q3) (Code) Training a convolutional net to classify cats and dogs. 
+
+Download the cats_dogs dataset shared on ODTUClass before you start.  
+
+Deliverables: A working notebook with explanatory comments.
+
+
+
+
+
+Q4) (Code) Testing your network with real data 
+
+Deliverables: A working notebook with explanatory comments, collected dataset.
