@@ -1,3 +1,5 @@
+**Please, do not add book pdfs or docs. They are copyrighted, it might end up closing this repo. So please DO NOT upload books, only notes.**
+
 # TurkeyLearningInitiative
 
 This repository contains curriculum and course materials for the Turkey Learning Initiative (TLI), a project aimed at providing educational resources to those affected by the recent earthquakes in Turkey.
