@@ -88,7 +88,7 @@ Commit mesajınız bu durumda çok önemli.  "Commit", değişikliklerinizin dep
 
 # Pull Request
 
-Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `puşş request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
+Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `pull request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
 
 <img width="1512" alt="Screen Shot 2023-02-11 at 14 29 09" src="https://user-images.githubusercontent.com/72661473/218255588-52771ea8-4f29-4da6-816d-347ca1e53e76.png">
 
