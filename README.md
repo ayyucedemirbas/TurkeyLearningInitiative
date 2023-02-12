@@ -1,5 +1,7 @@
 **Lütfen kitap pdf'leri veya belgeleri eklemeyin. Telif hakkıyla korunuyorlar, bu reponun kapanmasıyla sonuçlanabilir. Bu yüzden lütfen kitap YÜKLEMEYİN, yalnızca not yükleyin.**
 
+**Ayrıca bu notların kişisel mi alındığı yoksa hocaların mı verdiği, el yazısı mı yoksa bilgisayar da mı oluşturulduğu, hangi üniversiteye, hocaya, yıla ve döneme ait olduğu gibi bilgilere sahipseniz commit mesajınızda belirtmenizi rica ediyoruz.**
+
 # Türkiye Öğrenme İnisiyatifi
 
 Bu repo, Türkiye'de son depremlerden etkilenenlere eğitim kaynakları sağlamayı amaçlayan bir proje olan Türkiye Öğrenme Girişimi (TLI) için müfredat ve ders materyalleri içermektedir. 
