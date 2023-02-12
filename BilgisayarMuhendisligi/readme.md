@@ -13,6 +13,12 @@ Bu repo, Türkiye'deki Bilgisayar Mühendisliği çalışmaları ile ilgili kayn
 - [DSA (Veri Yapıları ve Algoritmalar)](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/DSA)
 
 - [İŞLETİM SİSTEMLERİ](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/%C4%B0%C5%9ELET%C4%B0M%20S%C4%B0STEMLER%C4%B0)
+    * Namik Kemal Universite Bilgisayar Muhendisligi 2022-2023 Guz Donemi Isletim Sistemleri Dersi Uygulamalari Reposu
+        * [https://github.com/gusanmaz/BMB311_OS](https://github.com/gusanmaz/BMB311_OS)
+
+- [Veri Yapilari]
+    * Namik Kemal Universite Bilgisayar Muhendisligi 2021-2021 Bahar Donemi Veri Yapilari Dersi Uygulamalari Reposu
+        * [https://github.com/gusanmaz/BMB212_Algorithms](https://github.com/gusanmaz/BMB212_Algorithms)
 
 - [JAVA PROGRAMLAMA DİLİ](https://github.com/ayyucedemirbas/TurkeyLearningInitiative/tree/main/BilgisayarMuhendisligi/JAVA%20PROGRAMLAMA%20D%C4%B0L%C4%B0)
 
