@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub forks](https://img.shields.io/github/forks/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ayyucedemirbas/TurkeyLearningInitiative?color=red&style=plastic) ![GitHub issues](https://img.shields.io/github/issues/ayyucedemirbas/TurkeyLearningInitiative)
+
 **Lütfen kitap pdf'leri veya belgeleri eklemeyin. Telif hakkıyla korunuyorlar, bu reponun kapanmasıyla sonuçlanabilir. Bu yüzden lütfen kitap YÜKLEMEYİN, yalnızca not yükleyin.**
 
 **Ayrıca bu notların kişisel mi alındığı yoksa hocaların mı verdiği, el yazısı mı yoksa bilgisayar da mı oluşturulduğu, hangi üniversiteye, hocaya, yıla ve döneme ait olduğu gibi bilgilere sahipseniz commit mesajınızda belirtmenizi rica ediyoruz.**
@@ -15,6 +17,16 @@ Bu depoda şunları bulacaksınız:
 * Çeşitli konuları kapsayan kapsamlı bir müfredat
 * Ders slaytları ve çalışma notları dahil olmak üzere ayrıntılı kurs materyalleri
 * Önerilen okumalar ve alıştırmalar gibi ek kaynaklar
+
+## Harici Kaynaklar
+
+Bu repo dışında daha önce oluşturulmuş olan aşağıdaki repo adreslerine de göz atabilirsiniz
+
+* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, yabancı dili henüz yeterli olmayan arkadaşlar için hazırlanmış ve klasör bazlı kategorilendirilmiş olan [Türkçe Kaynaklar](https://github.com/coderserdar/TurkceKaynaklar) reposu
+* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, genel olarak *İngilizce* dokümanlardan oluşan [Documents](https://github.com/coderserdar/Documents) reposu
+* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, okul zamanından kalma ders notları, kitaplar, sınavlar vb. içeren [HacettepeBBM](https://github.com/coderserdar/HacettepeBBM) reposu
+* [baristunar](https://github.com/baristunar/) tarafından oluşturulmuş, *Tasarım Örüntüleri (Design Patterns)* hakkında makalelerden oluşan [Design-Patterns-TR](https://github.com/baristunar/design-patterns-tr) reposu
+* **Not:** Buraya kendi repo adreslerinizi eklerken eğer repo *readme* içerisinde belirtilmemişse lütfen reponun ne hakkında olduğunu detaylı bir şekilde yazınız.
 
 ## Nasıl kaynak yükleyebilirsiniz?
 
@@ -92,6 +104,11 @@ In this repository, you will find:
 * Detailed course materials, including lecture slides and handouts
 * Additional resources, such as recommended readings and exercises
 
+## Katkıda Bulunanlar/Contributors
+
+<a href="https://github.com/ayyucedemirbas/TurkeyLearningInitiative/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ayyucedemirbas/TurkeyLearningInitiative" />
+</a>
 
 ## Getting started
 To start learning with the TLI materials, simply clone or download the repository to your local machine. The materials are intended to be self-contained, but if you have any questions or feedback, please feel free to open an issue in this repository.
@@ -103,4 +120,3 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ## Acknowledgments
 The TLI project would not be possible without the support of our contributors and the wider educational community. Thank you for your commitment to providing education to those in need.
-
