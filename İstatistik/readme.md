@@ -1,8 +1,6 @@
-## Yazılım Mühendisliği Ders Notları 🧑‍💻👩🏼‍💻
+## İstatistik Ders Notları 🧑‍💻👩🏼‍💻
 
-- Bilgisayar Ağları
-- Kalite Yönetim ve Standartarı
-- Yazılım Geliştirme Standartları ve Proje Yönetimi
-- Yazılım Kalite Güvencesi ve Testi
-- Yazılım Mimarisi ve Tasarımı
-- Yazılım Mühendisliğine Giriş
+- Exploratory Data Analysis
+- Operation Research
+- Stokastik Süreçler
+- İstatistiksel Metotlar ile Algoritma
