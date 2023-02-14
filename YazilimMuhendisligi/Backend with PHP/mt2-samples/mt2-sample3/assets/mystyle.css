@@ -1,0 +1,30 @@
+body { font-family: arial;}
+.price { font-size: 16px; font-weight: bold;}
+.title { font-size: 15px; color: #125ca7;}
+table { border-spacing: 3px; margin: 20px auto;}
+td.product { border:1px solid #999; padding: 5px; text-align: center;}
+.btn { padding: 6px 12px; border:1px solid #2e6da4; background: #337ab7; 
+       font-size: 14px; color: #FFF; text-align: center; cursor: pointer; border-radius: 4px;
+       text-decoration: none; 
+}
+.btn-default {background: #fff; border-color: #ccc; color: #333;
+
+}
+.btn-big { font-size: 1.3em; padding: 8px 18px;}
+.product div { text-align: center; padding: 10px;}
+#bar { background: #125ca7; height: 50px; text-align: right ; line-height: 50px; padding-right: 15px;}
+.badge {
+    display: inline-block; padding: 3px 7px; font-size: 12px; font-weight: 700; line-height: 1;
+    color: #fff; text-align: center; background-color: #777; border-radius: 10px; margin-left: 5px;
+
+}
+.pages { text-align: center;}
+.pageNo { margin: 20px; font-size: 20px; display:inline-block; width:30px; text-decoration: none;
+          color: #333;
+}
+.active { background: #ccc; border-radius: 10px;}
+.thumbnail { width : 30%; }
+#cart  { margin: 40px auto; border-collapse: collapse;}
+#cart td, #cart th { border:1px solid #ccc; padding: 10px; text-align: center;}
+#cart tr td:nth-child(3) { color: #125ca7; font-weight: bold; font-style:italic;}
+.total { font-weight: bold; font-size: 1.1em; color: #900;}
