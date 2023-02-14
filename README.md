@@ -26,6 +26,9 @@ Bu repo dışında daha önce oluşturulmuş olan aşağıdaki repo adreslerine 
 * [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, genel olarak *İngilizce* dokümanlardan oluşan [Documents](https://github.com/coderserdar/Documents) reposu
 * [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, okul zamanından kalma ders notları, kitaplar, sınavlar vb. içeren [HacettepeBBM](https://github.com/coderserdar/HacettepeBBM) reposu
 * [baristunar](https://github.com/baristunar/) tarafından oluşturulmuş, *Tasarım Örüntüleri (Design Patterns)* hakkında makalelerden oluşan [Design-Patterns-TR](https://github.com/baristunar/design-patterns-tr) reposu
+* [atakankizilyuce](https://github.com/atakankizilyuce/) tarafından oluşturulmuş, *Makina Öğrenmesi (Machine Learning)* hakkında makalelerden oluşan [Makine Öğrenmesi](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce) reposu
+* [huseyingulsin](https://github.com/huseyingulsin/) tarafından oluşturulmuş, kategorilendirilmiş [Açık Kaynak Bilgisayar Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri) reposu
+* [fatihacet](https://github.com/fatihacet/) tarafından oluşturulmuş, kategorilendirilmiş, genelde video linkleri ve pdf dosyalarından oluşan [Türkçe Kaynaklar](https://github.com/fatihacet/turkcekaynaklar-com) reposu
 * **Not:** Buraya kendi repo adreslerinizi eklerken eğer repo *readme* içerisinde belirtilmemişse lütfen reponun ne hakkında olduğunu detaylı bir şekilde yazınız.
 
 ## Nasıl kaynak yükleyebilirsiniz?
