@@ -1,12 +1,14 @@
-![GitHub stars](https://img.shields.io/github/stars/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub forks](https://img.shields.io/github/forks/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ayyucedemirbas/TurkeyLearningInitiative?color=red&style=plastic) ![GitHub issues](https://img.shields.io/github/issues/ayyucedemirbas/TurkeyLearningInitiative)
+![GitHub stars](https://img.shields.io/github/stars/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub forks](https://img.shields.io/github/forks/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ayyucedemirbas/TurkeyLearningInitiative?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/ayyucedemirbas/TurkeyLearningInitiative?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ayyucedemirbas/TurkeyLearningInitiative?color=red&style=plastic) ![GitHub issues](https://img.shields.io/github/issues/ayyucedemirbas/TurkeyLearningInitiative?color=yellow&style=plastic)
 
-**Lütfen kitap pdf'leri veya belgeleri eklemeyin. Telif hakkıyla korunuyorlar, bu reponun kapanmasıyla sonuçlanabilir. Bu yüzden lütfen kitap YÜKLEMEYİN, yalnızca not yükleyin.**
+**DİKKAT**
 
-**Ayrıca bu notların kişisel mi alındığı yoksa hocaların mı verdiği, el yazısı mı yoksa bilgisayar da mı oluşturulduğu, hangi üniversiteye, hocaya, yıla ve döneme ait olduğu gibi bilgilere sahipseniz commit mesajınızda belirtmenizi rica ediyoruz.**
+Lütfen kitap PDF'leri veya belgeleri eklemeyin. Telif hakkıyla korunuyorlar. Bu tür belgelerin yüklenmesi, reponun kapanmasıyla sonuçlanabilir. Bu yüzden lütfen kitap **YÜKLEMEYİN**, yalnızca not yükleyin.
+
+Ayrıca bu notların kişisel mi alındığı yoksa hocaların mı verdiği, el yazısı mı yoksa bilgisayar da mı oluşturulduğu, hangi üniversiteye, hocaya, yıla ve döneme ait olduğu gibi bilgilere sahipseniz commit mesajınızda belirtmenizi rica ediyoruz.
 
 # Türkiye Öğrenme İnisiyatifi
 
-Bu repo, Türkiye'de son depremlerden etkilenenlere eğitim kaynakları sağlamayı amaçlayan bir proje olan Türkiye Öğrenme Girişimi (TLI) için müfredat ve ders materyalleri içermektedir. 
+Bu repo, Türkiye'de son depremlerden etkilenenlere eğitim kaynakları sağlamayı amaçlayan bir proje olan Türkiye Öğrenme Girişimi (TLI) için müfredat ve ders materyalleri içermektedir.
 
 TLI'nin amacı, afetin ardından üniversite eğitimi de dahil olmak üzere tüm eğitim kademelerinin süresiz olarak askıya alınmasına rağmen öğrencilerin eğitimlerine devam etmelerine destek olmaktır.
 
@@ -14,25 +16,27 @@ TLI'nin amacı, afetin ardından üniversite eğitimi de dahil olmak üzere tüm
 
 Bu depoda şunları bulacaksınız:
 
-* Çeşitli konuları kapsayan kapsamlı bir müfredat
-* Ders slaytları ve çalışma notları dahil olmak üzere ayrıntılı kurs materyalleri
-* Önerilen okumalar ve alıştırmalar gibi ek kaynaklar
+-   Çeşitli konuları kapsayan kapsamlı bir müfredat
+-   Ders slaytları ve çalışma notları dahil olmak üzere ayrıntılı kurs materyalleri
+-   Önerilen okumalar ve alıştırmalar gibi ek kaynaklar
 
 ## Harici Kaynaklar
 
 Bu repo dışında daha önce oluşturulmuş olan aşağıdaki repo adreslerine de göz atabilirsiniz
 
-* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, yabancı dili henüz yeterli olmayan arkadaşlar için hazırlanmış ve klasör bazlı kategorilendirilmiş olan [Türkçe Kaynaklar](https://github.com/coderserdar/TurkceKaynaklar) reposu
-* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, genel olarak *İngilizce* dokümanlardan oluşan [Documents](https://github.com/coderserdar/Documents) reposu
-* [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, okul zamanından kalma ders notları, kitaplar, sınavlar vb. içeren [HacettepeBBM](https://github.com/coderserdar/HacettepeBBM) reposu
-* [baristunar](https://github.com/baristunar/) tarafından oluşturulmuş, *Tasarım Örüntüleri (Design Patterns)* hakkında makalelerden oluşan [Design-Patterns-TR](https://github.com/baristunar/design-patterns-tr) reposu
-* **Not:** Buraya kendi repo adreslerinizi eklerken eğer repo *readme* içerisinde belirtilmemişse lütfen reponun ne hakkında olduğunu detaylı bir şekilde yazınız.
+-   [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, yabancı dili henüz yeterli olmayan arkadaşlar için hazırlanmış ve klasör bazlı kategorilendirilmiş olan [Türkçe Kaynaklar](https://github.com/coderserdar/TurkceKaynaklar) reposu
+-   [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, genel olarak _İngilizce_ dokümanlardan oluşan [Documents](https://github.com/coderserdar/Documents) reposu
+-   [coderserdar](https://github.com/coderserdar) tarafından oluşturulmuş, okul zamanından kalma ders notları, kitaplar, sınavlar vb. içeren [HacettepeBBM](https://github.com/coderserdar/HacettepeBBM) reposu
+-   [baristunar](https://github.com/baristunar/) tarafından oluşturulmuş, _Tasarım Örüntüleri (Design Patterns)_ hakkında makalelerden oluşan [Design-Patterns-TR](https://github.com/baristunar/design-patterns-tr) reposu
+-   [onurravli]() tarafından oluşturulmuş, [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git-turkce-kullanma-kilavuzu) reposu.
+-   **Not:** Buraya kendi repo adreslerinizi eklerken eğer repo _readme_ içerisinde belirtilmemişse lütfen reponun ne hakkında olduğunu detaylı bir şekilde yazınız.
 
 ## Nasıl kaynak yükleyebilirsiniz?
 
 Github'da istediğiniz repoya dosya yüklemek oldukça kolay. Bu repoya dosya isimleriniz `Bölümİsmi_Dersİsmi_Konuİsmi` olacak şekilde istediğiniz formatta dosyalarınızı gerekli klasörün altında yükleyebilirsiniz. Şu adımları izlemeniz yeterli.
 
 # 1. Github Hesabı Oluşturun
+
 Eğer daha önce Github hesabınız yoksa, bir hesap oluşturmanız gerekir. <a href="https://github.com/">github.com</a> adresine gidin ve sağ üst köşedeki "Sign Up" düğmesine tıklayın. Hesabınızı oluşturmak için yönergeleri takip edin.
 
 # 2. Repoyu kendi hesabınıza forklayın
@@ -50,7 +54,7 @@ Bu adımda kendi hesabınız olduğuna emin olduktan sonra hiçbir şeyi değiş
 
 https://user-images.githubusercontent.com/72661473/218254900-24f49615-ca0d-459c-a518-349456e18dfd.mov
 
-Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabilirsiniz. 
+Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabilirsiniz.
 
 `https://github.com/GithubHesapİsminiz/TurkeyLearningInitiative` linki altından reponuza ulaşabilirsiniz. Ya da bu şekilde ulaşabilirsiniz:
 
@@ -64,7 +68,7 @@ Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Cho
 
 Ya da repo içerisinde yeni dosya oluşturabilirsiniz.
 
-**Önemli Not: Eğer yükleyeceğiniz bölüm notuna ait klasör varsa, o klasörün altına giderek ilgili notlarınızı anlatılan şekilde yükleyiniz. Yoksa istenen dosya ismi formatında dosyalarınızı yükleyebilirsiniz. Gerekli eklemeler yapılacaktır. Browser üzerinden klasör yüklemesi yapılamamaktadır.** 
+**Önemli Not: Eğer yükleyeceğiniz bölüm notuna ait klasör varsa, o klasörün altına giderek ilgili notlarınızı anlatılan şekilde yükleyiniz. Yoksa istenen dosya ismi formatında dosyalarınızı yükleyebilirsiniz. Gerekli eklemeler yapılacaktır. Browser üzerinden klasör yüklemesi yapılamamaktadır.**
 
 <img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://user-images.githubusercontent.com/72661473/218255285-037ac135-364b-477b-b1eb-90ee11fa656f.png">
 
@@ -72,7 +76,7 @@ Buradaki seçeneklerden 'Upload files' seçeneğine tıklıyoruz.
 
 https://user-images.githubusercontent.com/72661473/218255338-9c9ef50e-683b-430e-86e2-e87ac41bab79.mov
 
-Commit mesajınız bu durumda çok önemli.  "Commit", değişikliklerinizin depoya kaydedilmesidir. Bu mesajın bu değişiklikte ne yaptığınızı anlatması gerekir. Bu yüzden yüklediğiniz bölümlerin mesaj içerisinde olması iyi bir adım olabilir. Her değişiklikte tek bir bölüm ile ilgili içerik yüklemeniz daha doğru olacaktır.
+Commit mesajınız bu durumda çok önemli. "Commit", değişikliklerinizin depoya kaydedilmesidir. Bu mesajın bu değişiklikte ne yaptığınızı anlatması gerekir. Bu yüzden yüklediğiniz bölümlerin mesaj içerisinde olması iyi bir adım olabilir. Her değişiklikte tek bir bölüm ile ilgili içerik yüklemeniz daha doğru olacaktır.
 
 # Pull Request
 
@@ -88,8 +92,9 @@ Bu adımlardan sonra gerekli incelemelerden sonra kodunuz orijinal repoya eklene
 
 **Herhangi bir sorunuz olması durumunda bize ulaşabilirsiniz.**
 Email adreslerimiz:
-  * a.ayyuce.de@gmail.com
-  * gdenizbektass@gmail.com
+
+-   a.ayyuce.de@gmail.com
+-   gdenizbektass@gmail.com
 
 # TurkeyLearningInitiative
 
@@ -98,11 +103,12 @@ This repository contains curriculum and course materials for the Turkey Learning
 The goal of TLI is to support learners in continuing their education despite the indefinite suspension of all levels of education, including university education, due to the aftermath of the disaster.
 
 ## Contents
+
 In this repository, you will find:
 
-* A comprehensive curriculum covering a variety of subjects
-* Detailed course materials, including lecture slides and handouts
-* Additional resources, such as recommended readings and exercises
+-   A comprehensive curriculum covering a variety of subjects
+-   Detailed course materials, including lecture slides and handouts
+-   Additional resources, such as recommended readings and exercises
 
 ## Katkıda Bulunanlar/Contributors
 
@@ -111,12 +117,15 @@ In this repository, you will find:
 </a>
 
 ## Getting started
+
 To start learning with the TLI materials, simply clone or download the repository to your local machine. The materials are intended to be self-contained, but if you have any questions or feedback, please feel free to open an issue in this repository.
 
 ## Contributing
+
 We welcome contributions from the community! If you would like to contribute to the TLI project, please see our contributing guide for information on how to get involved.
 
-## License
+<!-- TODO: Add license here. ## License -->
 
 ## Acknowledgments
+
 The TLI project would not be possible without the support of our contributors and the wider educational community. Thank you for your commitment to providing education to those in need.
