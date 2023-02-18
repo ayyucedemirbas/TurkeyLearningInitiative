@@ -1,4 +1,4 @@
-## Yazılım Mühendisliği Ders Notları 🧑‍💻👩🏼‍💻
+## İstatistik Ders Notları 🧑‍💻👩🏼‍💻
 
 - Exploratory Data Analysis
 - Operation Research
