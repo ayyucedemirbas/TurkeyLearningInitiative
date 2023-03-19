@@ -1,6 +1,9 @@
 ## İstatistik Ders Notları 🧑‍💻👩🏼‍💻
 
 - Exploratory Data Analysis
-- Operation Research
-- Stokastik Süreçler
 - İstatistiksel Metotlar ile Algoritma
+- Kategorik Veri Analizi
+- Operation Research
+- Regression Analysis
+- Statistical Quality Control
+- Stokastik Süreçler
